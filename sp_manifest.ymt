@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CScenarioPointManifest>
+  <VersionNumber value="0" />
+  <RegionDefs>
+    <Item type="CScenarioPointRegionDef">
+      <Name>compcache:/scenario_fix/burton</Name>
+      <AABB>
+        <min x="-698.4959" y="-375.5486" z="8.149755" w="0.000000" />
+        <max x="-90.513504" y="10.0453157" z="58.13827" w="0.000000" />
+      </AABB>
+    </Item>
+  </RegionDefs>
+</CScenarioPointManifest>
+<CScenarioPointManifest>
+  <VersionNumber value="0" />
+  <RegionDefs>
+    <Item type="CScenarioPointRegionDef">
+      <Name>compcache:/scenario_fix/downtown</Name>
+      <AABB>
+        <min x="-781.851" y="-1386.205" z="27.78532" w="0.000000" />
+        <max x="385.6922" y="-408.0931" z="345.991669" w="0.000000" />
+      </AABB>
+    </Item>
+  </RegionDefs>
+</CScenarioPointManifest>
+<CScenarioPointManifest>
+  <VersionNumber value="0" />
+  <RegionDefs>
+    <Item type="CScenarioPointRegionDef">
+      <Name>compcache:/scenario_fix/eclipse</Name>
+      <AABB>
+        <min x="-836.4655" y="140.549133" z="57.0884476" w="0.000000" />
+        <max x="62.1329727" y="446.5435" z="112.997742" w="0.000000" />
+      </AABB>
+    </Item>
+  </RegionDefs>
+</CScenarioPointManifest>
+<CScenarioPointManifest>
+  <VersionNumber value="0" />
+  <RegionDefs>
+    <Item type="CScenarioPointRegionDef">
+      <Name>compcache:/scenario_fix/military_base</Name>
+      <AABB>
+        <min x="-3533.73315" y="2691.68628" z="-93.70396" w="0.000000" />
+        <max x="-1507.552" y="3854.94116" z="100.45047" w="0.000000" />
+      </AABB>
+    </Item>
+  </RegionDefs>
+</CScenarioPointManifest>
+<CScenarioPointManifest>
+  <VersionNumber value="0" />
+  <RegionDefs>
+    <Item type="CScenarioPointRegionDef">
+      <Name>compcache:/scenario_fix/mirrorpark</Name>
+      <AABB>
+        <min x="821.475647" y="-888.8897" z="52.8844681" w="0.000000" />
+        <max x="1268.843" y="-389.6159" z="69.30695" w="0.000000" />
+      </AABB>
+    </Item>
+  </RegionDefs>
+</CScenarioPointManifest>
+<CScenarioPointManifest>
+  <VersionNumber value="0" />
+  <RegionDefs>
+    <Item type="CScenarioPointRegionDef">
+      <Name>compcache:/scenario_fix/pillbox_hill</Name>
+      <AABB>
+        <min x="-266.560364" y="-1123.07666" z="8.148654" w="0.000000" />
+        <max x="405.2953" y="-423.2211" z="178.1748" w="0.000000" />
+      </AABB>
+    </Item>
+  </RegionDefs>
+</CScenarioPointManifest>
+<CScenarioPointManifest>
+  <VersionNumber value="0" />
+  <RegionDefs>
+    <Item type="CScenarioPointRegionDef">
+      <Name>compcache:/scenario_fix/rockford_east</Name>
+      <AABB>
+        <min x="-885.011" y="-458.504974" z="28.2564754" w="0.000000" />
+        <max x="-262.755" y="-59.2720833" z="58.1441536" w="0.000000" />
+      </AABB>
+    </Item>
+  </RegionDefs>
+</CScenarioPointManifest>
